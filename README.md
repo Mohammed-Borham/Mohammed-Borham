@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Borham</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Borham</h1>
 <h3 align="center">I'm a DevOps engineer</h3>
 <div align="center">
   <img src="code.gif" alt="animated gif" width="400" height="300"/>
