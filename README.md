@@ -3,7 +3,7 @@
 <div align="center">
   <img src="code.gif" alt="animated gif" width="400" height="300"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadborham&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadborham" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-borham&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-borham" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
@@ -66,25 +66,25 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp"/>
   </a>
 
-  <a href="mailto:muhammad.borham06@gmail.com" target="_blank">
+  <a href="mailto:borham.moahmed06@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-borham-3b03701ba" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-borham" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
 ### DevOps Projects
-[![](https://img.shields.io/badge/-📚%20Library%20Management%20System-2496ED?style=flat&logoColor=white)](https://github.com/MuhammadBorham/Final-Project.git)
+[![](https://img.shields.io/badge/-📚%20Library%20Management%20System-2496ED?style=flat&logoColor=white)](https://github.com/Mohammed-Borham/Final-Project.git)
 [![](https://img.shields.io/badge/-🛠%20Terraform%20Infrastructure-2496ED?style=flat&logoColor=white)](YOUR_TERRAFORM_PROJECT_LINK)
 [![](https://img.shields.io/badge/-🐳%20Dockerized%20Applications-2496ED?style=flat&logoColor=white)](YOUR_DOCKER_PROJECT_LINK)
 [![](https://img.shields.io/badge/-☸️%20Kubernetes%20Deployments-2496ED?style=flat&logoColor=white)](YOUR_K8S_PROJECT_LINK)
-[![](https://img.shields.io/badge/-⚙️%20Java%20Build%20Pipeline-2496ED?style=flat&logoColor=white)](https://github.com/MuhammadBorham/jenkins-java-pipeline)
-[![](https://img.shields.io/badge/-🔄%20Python%20Test%20Workflow-2496ED?style=flat&logoColor=white)](https://github.com/MuhammadBorham/python-ci-cd)
+[![](https://img.shields.io/badge/-⚙️%20Java%20Build%20Pipeline-2496ED?style=flat&logoColor=white)](https://github.com/mohammed-borham/jenkins-java-pipeline)
+[![](https://img.shields.io/badge/-🔄%20Python%20Test%20Workflow-2496ED?style=flat&logoColor=white)](https://github.com/mohammed-borham/python-ci-cd)
 </p>
 </p>
-<a href="https://github.com/MuhammadBorham">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=muhammadborham&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=2D3748&icon_color=4299E1&bg_color=FFFFFF&theme=transparent" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadborham&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=2D3748&icon_color=4299E1&bg_color=FFFFFF&theme=transparent&hide=html,css" />
+<a href="https://github.com/Mohammed-Borham">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mohammed-borham&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=2D3748&icon_color=4299E1&bg_color=FFFFFF&theme=transparent" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-borham&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=2D3748&icon_color=4299E1&bg_color=FFFFFF&theme=transparent&hide=html,css" />
 </a>
 
 
