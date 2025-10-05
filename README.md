@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp"/>
   </a>
 
-  <a href="mailto:borham.moahmed06@gmail.com" target="_blank">
+  <a href="mailto:borham.mohammad@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/mohammed-borham" target="_blank">
@@ -86,9 +86,5 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mohammed-borham&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=2D3748&icon_color=4299E1&bg_color=FFFFFF&theme=transparent" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-borham&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=2D3748&icon_color=4299E1&bg_color=FFFFFF&theme=transparent&hide=html,css" />
 </a>
-
-
-
-
 
 
