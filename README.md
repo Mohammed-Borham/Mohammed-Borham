@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Currently working as **Application Support Engineer** at **DevHouse International**
+- 🏢 Currently working as **TechOps Engineer** at **SoftWize**
 - ☁️ Experienced with **AWS**, **Docker**, **Kubernetes**, **Terraform**, and **CI/CD pipelines**
 - 🏅 Certified: **AWS SAA** · **AWS Cloud Practitioner** · **KCNA**
 - 🎯 Currently preparing for the **CKA** certification
@@ -57,7 +57,7 @@
 | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br>AWS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/><br>Terraform | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/><br>Docker | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45"/><br>Kubernetes | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/><br>Jenkins | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/><br>Git | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/><br>GitHub Actions | <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="45"/><br>ArgoCD |
-| <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45"/><br>Bash | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/><br>Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="45"/><br>Ansible | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="45"/><br>Ubuntu | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" width="45"/><br>RedHat | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/><br>MySQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45"/><br>Nginx | <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45"/><br>Grafana |
+| <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45"/><br>Bash | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/><br>Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="45"/><br>Ansible | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="45"/><br>Ubuntu | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" width="45"/><br>RedHat | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/><br>PostgreSQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/><br>MySQL | <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45"/><br>Grafana |
 
 </div>
 
